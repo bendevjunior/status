@@ -14,8 +14,7 @@ A cada 5 minutos, realizamos verificações automáticas nos serviços definidos
 
 Você pode acessar o painel de status completo aqui:
 
-👉 **[status.seudominio.com](https://status.seudominio.com)**  
-_(ou substitua pelo link do seu GitHub Pages)_
+👉 **[status.bendevoficial.com](https://status.bendevoficial.com)**  
 
 ## 📈 Uptime e Resposta
 
