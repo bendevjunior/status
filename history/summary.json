@@ -40,17 +40,17 @@
     "url": "https://portalmichalak.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/portalmichalak.com.br.ico",
     "slug": "portalmichalak-com-br",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1712,
-    "timeDay": 1857,
-    "timeWeek": 1755,
-    "timeMonth": 1712,
-    "timeYear": 1712,
+    "time": 4250,
+    "timeDay": 15746,
+    "timeWeek": 5240,
+    "timeMonth": 4250,
+    "timeYear": 4250,
     "dailyMinutesDown": {}
   }
 ]
