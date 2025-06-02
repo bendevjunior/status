@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 960,
-    "timeDay": 91,
-    "timeWeek": 907,
-    "timeMonth": 960,
-    "timeYear": 960,
+    "time": 892,
+    "timeDay": 89,
+    "timeWeek": 815,
+    "timeMonth": 892,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://pedidomesa.com",
     "icon": "https://icons.duckduckgo.com/ip3/pedidomesa.com.ico",
     "slug": "pedidomesa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3905,
-    "timeDay": 11214,
-    "timeWeek": 4878,
-    "timeMonth": 3905,
-    "timeYear": 3905,
+    "time": 5475,
+    "timeDay": 14882,
+    "timeWeek": 6978,
+    "timeMonth": 5475,
+    "timeYear": 5475,
     "dailyMinutesDown": {}
   }
 ]
